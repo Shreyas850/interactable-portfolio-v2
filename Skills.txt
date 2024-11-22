@@ -1,0 +1,10 @@
+HTML
+CSS
+Java Script
+React.js
+Next.js
+MongoDB
+My SQL
+Node.js
+Typescript
+React Native
